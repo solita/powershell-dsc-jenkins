@@ -26,7 +26,7 @@ Use jenkins_dsc to do the installation magic:
 - Add Java to path
 - Install Jenkins
 - Setup Jenkins startup arguments for more ram, 80 port and to skip setup wizard
-- Create initialization script with groovy for creating solita_jenkins user
+- Create initialization script with groovy for creating jenkins user
 - Set Jenkins service to Automatic state and make sure that it is running
 - Install jenkins plugins
 
